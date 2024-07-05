@@ -1,0 +1,10 @@
+07/05/2024
+
+Successfully run the program on ANT-B10 antenna array board and C209 tag.
+U-blox provie a visualization based on s-center.
+
+Write a simple python script for reading the serial information and from that can get tag_id,
+rssi,angle1,angle2,channel,anchor_id,timestamp.
+
+Next step is try to write our own tag program, so that we can use many nRF5340 as tag. 
+For our own visualization, can use Cheng Wang's Lighthouse script. 
